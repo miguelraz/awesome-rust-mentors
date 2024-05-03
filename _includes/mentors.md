@@ -257,7 +257,7 @@
 * **Additional Resources**:
   - [rust.cc](https://rust.cc)
   - [rustforce.net](https://rustforce.net)
-  - 
+
 ### Miguel Raz ([@daogangtang](https://github.com/miguelraz))
 * **Pronouns**: he/him
 * **Contact**: Discord (miguelraz)
